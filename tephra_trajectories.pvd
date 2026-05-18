@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0.00" file="tephra_0000.vtk"/>
+    <DataSet timestep="32.00" file="tephra_0001.vtk"/>
+    <DataSet timestep="64.00" file="tephra_0002.vtk"/>
+    <DataSet timestep="96.00" file="tephra_0003.vtk"/>
+    <DataSet timestep="128.00" file="tephra_0004.vtk"/>
+    <DataSet timestep="160.00" file="tephra_0005.vtk"/>
+    <DataSet timestep="192.00" file="tephra_0006.vtk"/>
+    <DataSet timestep="224.00" file="tephra_0007.vtk"/>
+    <DataSet timestep="256.00" file="tephra_0008.vtk"/>
+    <DataSet timestep="288.00" file="tephra_0009.vtk"/>
+    <DataSet timestep="320.00" file="tephra_0010.vtk"/>
+    <DataSet timestep="352.00" file="tephra_0011.vtk"/>
+    <DataSet timestep="384.00" file="tephra_0012.vtk"/>
+    <DataSet timestep="416.00" file="tephra_0013.vtk"/>
+    <DataSet timestep="448.00" file="tephra_0014.vtk"/>
+    <DataSet timestep="480.00" file="tephra_0015.vtk"/>
+  </Collection>
+</VTKFile>
